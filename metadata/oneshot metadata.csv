@@ -1,0 +1,49 @@
+id,instrument,type,note,filename
+1,bass,808,C,808 - Hype Spinz.wav
+2,bass,808,C,808 Dirt Spinz Short.wav
+3,bass,808,C,808 - Trvpyyy.wav
+4,bass,808,C,808 - Wheezy.wav
+5,bass,808,C,Basic Zay.wav
+6,bass,808,C,MELO 808 1.wav
+7,bass,808,C,MELO 808 2.wav
+8,bass,synth bass,C,Ohgeesy Bass.wav
+9,bass,synth bass,C,Street Bass.wav
+10,bass,synth bass,C,Viper's Favourite Bass.wav
+11,hihat,hihat,C,Cali HH.wav
+12,hihat,hihat,C,Digital HH.wav
+13,hihat,hihat,C,Hit HH.wav
+14,hihat,hihat,C,Slime HH.wav
+15,hihat,hihat,C,Snow HH.wav
+16,hihat,hihat,C,Weird HH.wav
+17,kick,kick,C,KICK 1 MELO.wav
+18,kick,kick,C,Trap Rack Kick.wav
+19,kick,kick,C,West Coast Rack Kick.wav
+20,perc,perc,C,Laser 2.wav
+21,perc,perc,C,Perc - Metro.wav
+22,perc,perc,C,Perc - Ysl.wav
+23,snare,clap,C,Azchike Clap.wav
+24,snare,clap,C,Clapp.wav
+25,snare,snap,C,Ghetto Snap.wav
+26,snare,clap,C,Luger Clap.wav
+27,snare,clap,C,Mike Sherm Clap.wav
+28,snare,snap,C,Snappa.wav
+29,snare,snap,C,Toy Snap.wav
+30,melody_main,Guitar,C,Guitar - 2020.wav
+31,melody_main,Guitar,C,Guitar - Acoustic.wav
+32,melody_main,Guitar,C,Guitar - Ambient.wav
+33,melody_main,Guitar,C,Guitar - Dads Fender.wav
+34,melody_main,Guitar,C,Guitar - Gasolina.wav
+35,melody_main,Guitar,C,Guitar - Pluck.wav
+36,melody_main,Guitar,C,Guitar - Pop.wav
+37,melody_main,Guitar,C,Guitar - Renaissance.wav
+38,melody_main,Keys,C,Keys - Old.wav
+39,melody_main,Keys,C,Keys - Save.wav
+40,melody_main,Keys,C,Keys - Slime.wav
+41,melody_main,Keys,C,Keys - Water.wav
+42,melody_sub,Flute,C,Flute - Basic.wav
+43,melody_sub,Flute,C,Flute - Old.wav
+44,melody_sub,Flute,C,Flute - Peace.wav
+45,melody_sub,Lead,C,Lead (7).wav
+46,melody_sub,Lead,C,Lead (11).wav
+47,melody_sub,Lead,C,Lead (22).wav
+48,melody_sub,Lead,C,Lead (26).wav
